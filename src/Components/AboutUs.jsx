@@ -7,8 +7,8 @@ export default function AboutUs() {
     <div className='bg-success'>
         <br />
     <div className="container">
-  <div className="row">
-    <div className="col-lg-6 col-md-6 col-sm-12">
+  <div className="row mx-auto">
+    <div className="col-lg-6 col-md-6 col-sm-12 App">
       <img src={IMG} alt="" height="328px" width="328px"/>
     </div>
     <div className="col">

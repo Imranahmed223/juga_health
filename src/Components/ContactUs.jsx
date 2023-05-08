@@ -35,7 +35,9 @@ export default function ContactUs() {
         </div>
         <br />
         <div style={{display:"flex",flexWrap:"wrap"}} className='justify-content-evenly'>
-          <textarea name="" style={{borderColor:"#060E81"}} placeholder='Type your message here' id="" cols="60" rows="10"></textarea>
+          <textarea name="" className='media' style={{borderColor:"#060E81"}} placeholder='Type your message here'  id="" cols="60" rows="10"></textarea>
+          <textarea name="" className='testing' style={{borderColor:"#060E81"}} placeholder='Type your message here'  id="" cols="30" rows="10"></textarea>
+          <textarea name="" className='finalTesting' style={{borderColor:"#060E81"}} placeholder='Type your message here'  id="" cols="20" rows="10"></textarea>
         </div>
         <br />
         <div style={{display:"flex",flexWrap:"wrap"}} className='justify-content-evenly'>
